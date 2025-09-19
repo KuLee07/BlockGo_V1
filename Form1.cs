@@ -373,7 +373,7 @@ namespace BlockGo_ControlPanel
                     if (i % 2 != 0)
                     {
                         //後手(白子)
-                        MCTS_Array.select(50, 2, Check_SingleMode, Board_SingleMode);
+                        MCTS_Array.select(Convert.ToInt32(txtMCTStime.Text), 2, Check_SingleMode, Board_SingleMode);
                         Invoke(updateMsg, "\a白子思考完畢");
                     }
                     else
@@ -407,7 +407,7 @@ namespace BlockGo_ControlPanel
                     else
                     {
                         //先手(黑子)
-                        MCTS_Array.select(50, 1, Check_SingleMode, Board_SingleMode);
+                        MCTS_Array.select(Convert.ToInt32(txtMCTStime.Text), 1, Check_SingleMode, Board_SingleMode);
                         Invoke(updateMsg, "\a黑子思考完畢");
                     }
                 }

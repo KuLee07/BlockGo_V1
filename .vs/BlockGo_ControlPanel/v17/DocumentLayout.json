@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\BlockGo_V1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|d:\\blockgo_v1\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|D:\\BlockGo_V1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|d:\\blockgo_v1\\mcts_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|solutionrelative:mcts_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|d:\\blockgo_v1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091A45D9-30DE-45F6-9ABF-7EC8CF0FC184}|BlockGo_ControlPanel.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,38 +21,21 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BlockGo_V1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\BlockGo_V1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF8BAAAAAAAAAAAAAHQBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T02:21:14.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "D:\\BlockGo_V1\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "D:\\BlockGo_V1\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-09-18T17:11:27.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MCTS_Array.cs",
-              "DocumentMoniker": "D:\\BlockGo_V1\\MCTS_Array.cs",
-              "RelativeDocumentMoniker": "MCTS_Array.cs",
-              "ToolTip": "D:\\BlockGo_V1\\MCTS_Array.cs",
-              "RelativeToolTip": "MCTS_Array.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T15:25:52.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\BlockGo_V1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
